@@ -9,6 +9,7 @@
   color: white;
   font-size: 20px;
   font-family: 'Raleway', sans-serif;
+  font-weight: 100;
 }
 
 .navbar-li {
@@ -16,5 +17,15 @@
 }
 
 .navbar-title {
-  font-weight: bold;
+  font-weight: 500;
+}
+
+.navbar-a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-a:hover {
+  color: #ddd;
+  text-decoration: none;
 }

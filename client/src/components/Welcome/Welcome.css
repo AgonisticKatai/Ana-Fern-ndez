@@ -1,13 +1,10 @@
 .welcome-img {
   border-radius: 10px;
   height: 400px;
-  filter: grayscale(50);
+  filter: grayscale(100%);
 }
 
 .welcome-content {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 100;
-  font-size: 17px;
   margin: 50px;
   display: flex;
   align-items: center;
@@ -17,7 +14,10 @@
 }
 
 .welcome-text {
+  font-family: 'Raleway', sans-serif;
   color: white;
+  font-weight: 100;
+  font-size: 17px;
   text-align: right;
   margin-bottom: 0;
   margin-right: 20px;
