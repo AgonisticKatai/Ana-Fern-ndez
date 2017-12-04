@@ -8,7 +8,7 @@ const Gallery = () => {
       <p className='gallery-title'>Galería</p>
       <ul className='gallery-ul'>
         <li className='gallery-li'>
-          <img src='https://i.imgur.com/ulzYik0.jpg' className='gallery-img' alt='default' />
+          <img src='https://i.imgur.com/raD6zme.jpg' className='gallery-img' alt='default' />
           <div className='gallery-img-hover'>
             <div className='gallery-img-text'>
               <span>Hand Made Shoes & Bags AF</span><br />
@@ -22,7 +22,7 @@ const Gallery = () => {
           </div>
         </li>
         <li className='gallery-li'>
-          <img src='https://i.imgur.com/CnB7lSx.jpg' className='gallery-img' alt='default' />
+          <img src='https://i.imgur.com/QX6ANEn.jpg' className='gallery-img' alt='default' />
           <div className='gallery-img-hover'>
             <div className='gallery-img-text'>
               <span>Hand Made Shoes & Bags AF</span><br />
@@ -36,7 +36,7 @@ const Gallery = () => {
           </div>
         </li>
         <li className='gallery-li'>
-          <img src='https://i.imgur.com/Mx0oNYm.jpg' className='gallery-img' alt='default' />
+          <img src='https://i.imgur.com/jCRlKx0.jpg' className='gallery-img' alt='default' />
           <div className='gallery-img-hover'>
             <div className='gallery-img-text'>
               <span>Hand Made Shoes & Bags AF</span><br />

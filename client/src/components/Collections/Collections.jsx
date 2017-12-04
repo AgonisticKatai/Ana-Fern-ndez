@@ -8,34 +8,42 @@ const Collections = () => {
       <p className='collections-title'>Colecciones</p>
       <ul className='collections-ul'>
         <li className='collections-li'>
-          <img src='https://i.imgur.com/mtJwUwj.jpg' className='collections-img' alt='default' />
+          <img src='https://i.imgur.com/dDxnu1B.jpg' className='collections-img' alt='default' />
           <div className='collections-img-hover'>
             <div className='collections-img-text'>
-              <span>Hand Made Shoes & Bags AF</span>
+              <span>Hand Made Shoes & Bags AF</span><br />
+              <br />
+              Temporada 2017-2018
             </div>
           </div>
         </li>
         <li className='collections-li'>
-          <img src='https://i.imgur.com/sjebGX0.jpg' className='collections-img' alt='default' />
+          <img src='https://i.imgur.com/qRUsNGx.jpg' className='collections-img' alt='default' />
           <div className='collections-img-hover'>
             <div className='collections-img-text'>
-              <span>Hand Made Shoes & Bags AF</span>
+              <span>Hand Made Shoes & Bags AF</span><br />
+              <br />
+              Novias 2017-2018
             </div>
           </div>
         </li>
         <li className='collections-li'>
-          <img src='https://i.imgur.com/I4F1xyL.jpg' className='collections-img' alt='default' />
+          <img src='https://i.imgur.com/DXlIPbd.jpg' className='collections-img' alt='default' />
           <div className='collections-img-hover'>
             <div className='collections-img-text'>
-              <span>Hand Made Shoes & Bags AF</span>
+              <span>Hand Made Shoes & Bags AF</span><br />
+              <br />
+              Complementos 2017-2018
             </div>
           </div>
         </li>
         <li className='collections-li'>
-          <img src='https://i.imgur.com/Ok7jOPI.jpg' className='collections-img' alt='default' />
+          <img src='https://i.imgur.com/CUPNhUl.jpg' className='collections-img' alt='default' />
           <div className='collections-img-hover'>
             <div className='collections-img-text'>
-              <span>Hand Made Shoes & Bags AF</span>
+              <span>Hand Made Shoes & Bags AF</span><br />
+              <br />
+              Avance 2018-2019
             </div>
           </div>
         </li>
